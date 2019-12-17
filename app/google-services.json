@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776361602218",
+    "firebase_url": "https://realtime-9fe84.firebaseio.com",
+    "project_id": "realtime-9fe84",
+    "storage_bucket": "realtime-9fe84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776361602218:android:b6ac56792a6aa7701234d3",
+        "android_client_info": {
+          "package_name": "com.sujan.ledcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776361602218-gbdhcb0i71nki2lfv6aj9nushr8r5sj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xH4mi4tVIok6nuP-CzXoxnDGYooE9LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776361602218-gbdhcb0i71nki2lfv6aj9nushr8r5sj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
